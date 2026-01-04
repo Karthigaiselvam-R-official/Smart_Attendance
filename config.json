@@ -1,0 +1,11 @@
+{
+    "admin": {
+        "password_hash": "d34b8e641c832d3047df792237c152610bbe7398351fd57709a1d35f1f976a03",
+        "salt": "398a8493ff16c579b52ed964a23e7a67"
+    },
+    "theme": "dark",
+    "camera_id": 0,
+    "recognition_threshold": 70,
+    "capture_duration": 20,
+    "images_per_student": 70
+}
