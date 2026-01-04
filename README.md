@@ -46,6 +46,10 @@
 - **Secure Authentication**: Admin access protected by **SHA-256** password hashing.
 - **Data Privacy**: Local database storage ensures data stays on your machine.
 
+### ☁️ Cloud Ready
+- **Vercel API**: Includes a pre-configured `api/index.py` and `vercel.json` for developers whishing to extend this project with a cloud backend.
+
+
 ---
 
 ## 📸 Gallery
