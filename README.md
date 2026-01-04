@@ -58,10 +58,10 @@
     </tr>
     <tr>
       <td align="center"><img src="screenshots/image copy 2.png" width="400"/><br><b>Attendance Taking</b></td>
-      <td align="center"><img src="screenshots/image copy 3.png" width="400"/><br><b>Admin Panel</b></td>
+      <td align="center"><img src="screenshots/image copy 3.png" width="400"/><br><b>Excel Export & Stats</b></td>
     </tr>
   </table>
-  <img src="screenshots/image copy 4.png" width="800"/><br><b>Excel Export & Stats</b>
+  <img src="screenshots/image copy 4.png" width="800"/><br><b>Admin Panel</b>
 </div>
 
 ---
